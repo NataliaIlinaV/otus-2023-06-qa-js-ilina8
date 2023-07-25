@@ -13,3 +13,4 @@ let grade = {
 };
 
 console.log(getScore(grade));   
+
